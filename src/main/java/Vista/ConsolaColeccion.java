@@ -44,7 +44,7 @@ public class ConsolaColeccion {
      * Muestra las opciones del menú principal al usuario.
      */
     private void mostrarMenu() {
-        System.out.println("\n--- Mantenedor de Colección de Vinilos ---");
+        System.out.println("\n--- Tu Colección de Vinilos ---");
         System.out.println("1. Agregar Vinilo");
         System.out.println("2. Buscar Vinilo");
         System.out.println("3. Ver Estado de la Colección");
